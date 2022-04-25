@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-new file
-=======
 This is anther file
 Final added
->>>>>>> newfeature
